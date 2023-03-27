@@ -8,3 +8,8 @@
     grid-template-columns: repeat(3,1fr);
     grid-gap: 40px;
 }
+
+.cart-container{
+    position: fixed;
+    left: 1000px;
+}
